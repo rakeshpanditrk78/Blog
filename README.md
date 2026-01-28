@@ -14,3 +14,9 @@
 [Getting Started with cURL] - [https://rakeshpandit78.hashnode.dev/getting-started-with-curl]
 
 [TCP vs UDP: When to Use What, and How TCP Relates to HTTP] - [https://rakeshpandit78.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http]
+
+[TCP Working: 3-Way Handshake & Reliable Communication] - [https://rakeshpandit78.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication]
+
+[Understanding HTML Tags and Elements] - [https://rakeshpandit78.hashnode.dev/understanding-html-tags-and-elements]
+
+[CSS Selectors 101: Targeting Elements with Precision] - [https://rakeshpandit78.hashnode.dev/css-selectors-101-targeting-elements-with-precision]
