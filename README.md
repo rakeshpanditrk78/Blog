@@ -20,3 +20,7 @@
 [Understanding HTML Tags and Elements] - [https://rakeshpandit78.hashnode.dev/understanding-html-tags-and-elements]
 
 [CSS Selectors 101: Targeting Elements with Precision] - [https://rakeshpandit78.hashnode.dev/css-selectors-101-targeting-elements-with-precision]
+
+[How a Browser Works: A Beginner-Friendly Guide to Browser Internals] - [https://rakeshpandit78.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals?showSharer=true]
+
+[Emmet for HTML: A Beginner’s Guide to Writing Faster Markup] - [https://rakeshpandit78.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup?showSharer=true]
